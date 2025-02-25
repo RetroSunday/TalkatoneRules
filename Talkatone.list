@@ -1,16 +1,16 @@
 # talkatone
-host-suffix,mobilefuse.com
-host-suffix,inmobi.com
-host-suffix,crashlytics.com
-host-suffix,talkatone.com
-host-suffix,kochava.com
+host-suffix,mobilefuse.com,Talkatone
+host-suffix,inmobi.com,Talkatone
+host-suffix,crashlytics.com,Talkatone
+host-suffix,talkatone.com,Talkatone
+host-suffix,kochava.com,Talkatone
 # 这个域名最好走代理，我这边直连已超时
-# DOMAIN-SUFFIX,tktn.be
-host-suffix,cohere.com
-host-suffix,ip-api.com
-host-suffix,agkn.com
-host-suffix,tktn.at
-IP-CIDR,50.117.27.0/24
-IP-CIDR,69.46.75.0/24
-IP-CIDR,205.164.56.0/24
-IP-CIDR,63.251.124.0/24
+host-suffix,tktn.be,Talkatone
+host-suffix,cohere.com,Talkatone
+host-suffix,ip-api.com,Talkatone
+host-suffix,agkn.com,Talkatone
+host-suffix,tktn.at,Talkatone
+IP-CIDR,50.117.27.0/24,Talkatone
+IP-CIDR,69.46.75.0/24,Talkatone
+IP-CIDR,205.164.56.0/24,Talkatone
+IP-CIDR,63.251.124.0/24,Talkatone
